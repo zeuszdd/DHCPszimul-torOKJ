@@ -1,2 +1,2 @@
 # DHCPszimul-torOKJ
-A 2017 november 9-i OKJ vizsga megoldása C# nyelven.
+A központi OKJ írásbeli vizsgafeladat programozás része (2017 november 9)
